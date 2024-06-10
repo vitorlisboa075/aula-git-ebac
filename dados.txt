@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:vitor gabriel da silva lisba 
+-Profissão:gerente 
+-Cidade:guanambi 
+-O que faz nas horas vaga:escuto musica 
+-Feedback sobre o curso Qualidade de Software:bom 
+-Feedback sobre a plataforma de estudo da EBAC:boa 
+
+Obrigado!!!
+
+
